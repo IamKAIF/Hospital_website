@@ -12,7 +12,7 @@ Home page:
 
 About page:
 
-![Uploading Screenshot (322).png…]()
+![Screenshot (322)](https://user-images.githubusercontent.com/104121811/181837686-20e01e9b-f49e-4cc9-abac-b406a1224dd2.png)
 
 Service page:
 
