@@ -1,5 +1,9 @@
 name: Azure Static Web Apps CI/CD
-
+ { 
+   "engines" : { 
+     "node" : "10.x" 
+   }
+ }
 on:
   push:
     branches:
